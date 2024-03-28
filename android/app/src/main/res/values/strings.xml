@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">تطبيق الملاك</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">IWJfm19xLVZD8URprs2tzwns4tV7F13_9fhxu</string>
+</resources>

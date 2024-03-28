@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>580762034351-to8mafhk185jib7n643oruf824t7k59o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.580762034351-to8mafhk185jib7n643oruf824t7k59o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDTk8iR1m4StzYwWvNl1A_2Y6e0zUC6erc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>580762034351</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.asaasAlbayanat.asaasPortals</string>
+	<key>PROJECT_ID</key>
+	<string>asaas-production</string>
+	<key>STORAGE_BUCKET</key>
+	<string>asaas-production.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:580762034351:ios:17177aa8157749d1b2b45a</string>
+	<key>DATABASE_URL</key>
+	<string>https://asaas-production.firebaseio.com</string>
+</dict>
+</plist>

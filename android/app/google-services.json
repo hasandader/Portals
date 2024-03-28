@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580762034351",
+    "firebase_url": "https://asaas-production.firebaseio.com",
+    "project_id": "asaas-production",
+    "storage_bucket": "asaas-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580762034351:android:c3a4899963f60c1eb2b45a",
+        "android_client_info": {
+          "package_name": "com.asaasportals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580762034351-3r580jts8muhbeif03c87thv5rkvsoa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH8nToB0uXjiezLX0LX6thrjMJSn_7MkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580762034351-3r580jts8muhbeif03c87thv5rkvsoa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
